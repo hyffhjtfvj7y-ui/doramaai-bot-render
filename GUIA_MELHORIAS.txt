@@ -1,0 +1,165 @@
+╔══════════════════════════════════════════════════════════════════════════════╗
+║                  🎭 DORAMAAI BOT - GUIA DE MELHORIAS 🎭                      ║
+║                    Narração Sensual + Interação Dinâmica                      ║
+╚══════════════════════════════════════════════════════════════════════════════╝
+
+📋 O QUE FOI MELHORADO?
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+✅ NARRAÇÃO SENSUAL E HUMANA
+   • Voz Microsoft Neural com tom mais grave e expressivo
+   • Estilo "Cheerful" para maior carisma
+   • Velocidade ajustada para criar suspense (0.85-0.90)
+   • Narração em PRIMEIRA PESSOA (como se Yuna estivesse vivendo a história)
+
+✅ EXPRESSÕES FACIAIS DINÂMICAS
+   • Boas-vindas: Expressão "happy" (sorriso sedutor)
+   • Teasers: Expressão "surprise" (intrigante)
+   • Episódios: Expressão "happy" (envolvida)
+   • Animação com driver "lively" para movimentos corporais fluidos
+
+✅ INTERAÇÃO DOS PERSONAGENS
+   • Yuna agora narra com emoção e expressividade
+   • Movimentos faciais sincronizados com a voz
+   • Gestos corporais mais realistas
+   • Cada episódio é uma experiência imersiva
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🎬 COMO USAR O BOT MELHORADO
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+1️⃣  INICIAR O BOT
+    npm install
+    npm run build
+    npm run start
+
+2️⃣  CONFIGURAR VARIÁVEIS DE AMBIENTE (.env)
+    TELEGRAM_BOT_TOKEN=seu_token_aqui
+    TELEGRAM_ADMIN_ID=seu_id_aqui
+    DID_API_KEY=sua_chave_did_aqui
+    PORT=3000
+
+3️⃣  FLUXO DO USUÁRIO
+    
+    /start
+    ↓
+    Yuna aparece com vídeo de boas-vindas (expressão happy)
+    ↓
+    Menu principal
+    ↓
+    Escolher dorama
+    ↓
+    Escolher episódio
+    ↓
+    Yuna narra com expressão e animação dinâmica
+    ↓
+    Vídeo com qualidade HD (VIP) ou Standard (grátis)
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🎙️ CARACTERÍSTICAS DA VOZ
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+• Provedora: Microsoft Azure Neural Voice
+• Voz Feminina: pt-BR-ThalitaMultilingualNeural (Yuna)
+• Voz Masculina: pt-BR-AntonioNeural (Galã)
+• Estilo: Cheerful (expressivo e caloroso)
+• Tom: -5% (mais grave e sensual)
+• Velocidade: 0.85-0.90 (deliberada e envolvente)
+• Sincronização: D-ID Lip-Sync em tempo real
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🎭 EXPRESSÕES DISPONÍVEIS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+"warm"     → Calorosa e sensual (padrão)
+"happy"    → Alegre e envolvente (boas-vindas, episódios)
+"surprise" → Intrigante e misteriosa (teasers)
+"sad"      → Melancólica e profunda
+"angry"    → Intensa e poderosa
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+📝 EXEMPLOS DE NARRAÇÃO (PRIMEIRA PESSOA)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+ANTES (Terceira Pessoa):
+"No jardim secreto do palácio imperial, onde nenhuma mulher deveria entrar,
+a pintora Mei caminhava sozinha ao luar..."
+
+DEPOIS (Primeira Pessoa):
+"A noite estava quente, e o silêncio do jardim imperial era apenas quebrado
+pelo suave roçar do meu hanbok de seda contra as pernas... Eu caminhava sob
+o luar, sentindo a brisa acariciar meus ombros nus..."
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🚀 PRÓXIMAS MELHORIAS SUGERIDAS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+1. Diálogos entre personagens (Yuna + personagem masculino)
+2. Gestos corporais específicos para cada emoção
+3. Transições suaves entre cenas
+4. Música de fundo e efeitos sonoros
+5. Lip-sync aprimorado com modelos mais avançados
+6. Customização de expressões por usuário
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+📦 ARQUIVOS MODIFICADOS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+✓ src/bot/did.ts
+  - Configuração de voz mais sensual
+  - Adição de expressões faciais dinâmicas
+  - Driver "lively" para movimentos corporais
+  - Animation_assets para controle de expressões
+
+✓ src/bot/bot.ts
+  - Integração de expressões em todos os fluxos
+  - Suporte a parâmetro "expression" em sendDIDVideo
+  - Expressões específicas para cada contexto
+
+✓ src/bot/catalog.ts
+  - Narração em primeira pessoa
+  - Adição de vozes masculinas
+  - Aumento da expressividade das sinopses
+
+✓ MELHORIAS_NARACAO.md
+  - Documentação completa das mudanças
+  - Guia técnico de configuração
+  - Exemplos de uso
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+💡 DICAS IMPORTANTES
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+• A voz Microsoft Neural é muito mais realista que síntese comum
+• O D-ID sincroniza automaticamente animação facial com áudio
+• Cada expressão é renderizada em tempo real
+• Vídeos HD levam ~90 segundos para gerar (normal)
+• A qualidade depende da chave D-ID e do plano contratado
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+📞 SUPORTE
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Para dúvidas ou problemas:
+1. Verifique as variáveis de ambiente
+2. Confirme que a chave D-ID está válida
+3. Teste com /start para ver se a boas-vindas funciona
+4. Consulte MELHORIAS_NARACAO.md para detalhes técnicos
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+✨ Versão: 1.1.0
+✨ Data: 2026-05-20
+✨ Status: ✅ Implementado e Testado
+
+╔══════════════════════════════════════════════════════════════════════════════╗
+║                    Aproveite a nova experiência! 🎬                          ║
+╚══════════════════════════════════════════════════════════════════════════════╝
